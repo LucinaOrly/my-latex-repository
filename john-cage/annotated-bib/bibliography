@@ -1,0 +1,19 @@
+@book{peter
+	title="John Cage",
+	date="1962",
+	publisher="Henmar Press Inc."	
+}
+
+@book{haef
+	title="John Cage; a Reserach and Information Guide",
+	author="Sara Haefeli",
+	publisher="Routledge Music Bibliographies",
+	date="2018"
+}
+
+@book {peter
+	title="Words and Music"
+	author="Peter Dickinson"
+	publisher="The Boydell Press"
+	date="2016"
+}
